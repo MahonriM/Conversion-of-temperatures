@@ -1,0 +1,9 @@
+C:\Users\FACPYA\Desktop\Ejercicio7\Ejercicio7\bin\Debug\Ejercicio7.exe
+C:\Users\FACPYA\Desktop\Ejercicio7\Ejercicio7\bin\Debug\Ejercicio7.pdb
+C:\Users\FACPYA\Desktop\Ejercicio7\Ejercicio7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FACPYA\Desktop\Ejercicio7\Ejercicio7\obj\x86\Debug\Ejercicio7.Form1.resources
+C:\Users\FACPYA\Desktop\Ejercicio7\Ejercicio7\obj\x86\Debug\Ejercicio7.Properties.Resources.resources
+C:\Users\FACPYA\Desktop\Ejercicio7\Ejercicio7\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\FACPYA\Desktop\Ejercicio7\Ejercicio7\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\FACPYA\Desktop\Ejercicio7\Ejercicio7\obj\x86\Debug\Ejercicio7.exe
+C:\Users\FACPYA\Desktop\Ejercicio7\Ejercicio7\obj\x86\Debug\Ejercicio7.pdb
